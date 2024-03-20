@@ -1,0 +1,27 @@
+{
+  "packageManager": "yarn@3.4.1",
+  "workspaces": [
+    "@planetarium/account",
+    "@planetarium/account-aws-kms",
+    "@planetarium/account-web3-secret-storage",
+    "@planetarium/tx",
+    "Libplanet.Tools"
+  ],
+  "devDependencies": {
+    "@vitest/coverage-c8": "^0.29.2",
+    "node-fetch": "^3.1.1",
+    "rome": "^11.0.0",
+    "typescript": "^4.8.4",
+    "unzipper": "^0.10.11",
+    "vitest": "^0.29.2"
+  },
+  "files": [],
+  "name": "dolorequibusdam",
+  "author": "AileenFerry",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CrystelArmstrong/dolorequibusdam.git"
+  },
+  "homepage": "https://github.com/CrystelArmstrong/dolorequibusdam.git",
+  "version": "1.0.0"
+}
